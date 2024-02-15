@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  gap: 20px;
+  flex-flow: wrap;
+}
+.card {
+  width: 400px !important;
+  height: 450px;
+  border-radius: 20px;
+}
